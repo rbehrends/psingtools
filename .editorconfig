@@ -1,0 +1,8 @@
+[{**.d,**.re}]
+end_of_line=lf
+insert_final_newline=true
+charset=UTF-8
+indent_style=space
+indent_size=2
+max_Line_length=78
+dfmt_brace_style=otbs

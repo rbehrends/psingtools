@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.re": "d",
+    "SConstruct" : "python"
+  },
+  "[d]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  }
+}
